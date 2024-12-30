@@ -12,7 +12,7 @@
 -> git checkout -b <branch-name> => create and switch branch
 -> git switch <branch-name> => switch branch
 -> git merge <branch-name> => merge branch
--> git pull => pull from remote repo
+-> git pull => pull from remote repo [combination of fetch and merge]
 -> git log => list of commits
 -> git status => show status of repo
 -> git clone <repo-url> => clone repo
