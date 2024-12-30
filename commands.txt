@@ -1,0 +1,18 @@
+-> git => git is a version control system
+-> github => github is a platform for hosting git repos
+
+-> git init => creates a new git repo
+-> git add . => add all files to staging area
+-> git commit -m "message" => creates a new commit
+-> git remote add <remote-name> <url> => add remote repo
+-> git push <remote-name> <branch-name> => push to remote repo
+-> git branch => lists all branches
+-> git branch <branch-name> => creates a new branch
+-> git checkout <branch-name> => switch branch
+-> git checkout -b <branch-name> => create and switch branch
+-> git switch <branch-name> => switch branch
+-> git merge <branch-name> => merge branch
+-> git pull => pull from remote repo
+-> git log => list of commits
+-> git status => show status of repo
+-> git clone <repo-url> => clone repo
